@@ -1,4 +1,4 @@
- % Stefan Haufe, 2019
+% Stefan Haufe, 2019
 %
 % required toolboxes: 
 % MVGC: https://users.sussex.ac.uk/~lionelb/MVGC/html/mvgchelp.html
